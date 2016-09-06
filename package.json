@@ -1,0 +1,28 @@
+{
+  "name": "iso8583",
+  "version": "1.0.0",
+  "description": "ISO 8583 Parser and Serializer",
+  "main": "iso8583.js",
+  "dependencies": {
+    "jslint": "0.10.3"
+  },
+  "devDependencies": {
+    "jslint": "0.10.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarcon/iso8583.git"
+  },
+  "keywords": [
+    "ISO8583"
+  ],
+  "author": "Juliano Marcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmarcon/iso8583/issues"
+  },
+  "homepage": "https://github.com/jmarcon/iso8583#readme"
+}
